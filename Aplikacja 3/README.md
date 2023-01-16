@@ -1,21 +1,19 @@
-# lab5
-<br>
-Podgląd przykładów:
-<br>
+# Aplikacja służąca do fetchowania elementów ze stron internetowych
 
-![image](https://user-images.githubusercontent.com/56955430/148652298-18578a0c-af26-4cbc-92ab-8cb87ec202cc.png)
 <br>
 Wyszukiwanie URL:
 <br>
+Na stronie podajemy link do strony internetowej, oraz element do poszukania:
 
 ![image](https://user-images.githubusercontent.com/56955430/148652443-782218c7-c57d-4f9d-9613-f814ad9d0fdf.png)
 <br>
 Po wyszukaniu:
 <br>
+Widzimy listę elementów, przykładowo dla wyszukania elementu "h2" w artykule na wikipedii:
 
 ![image](https://user-images.githubusercontent.com/56955430/148652469-94e6dd8c-88b4-4e60-8763-c1aadd8cc378.png)
 <br>
-Pobranie sciezki do strony:
+Aplikacja pozwala również na poszukiwanie elemmentów za pomocą XPATH oraz klasę
 <br>
 
 ![image](https://user-images.githubusercontent.com/56955430/148652986-235f6b4d-92c1-4d66-917c-6982f51aeacd.png)
