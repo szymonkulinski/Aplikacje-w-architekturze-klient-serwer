@@ -1,8 +1,6 @@
-# Aplikacje Internetowe
+#Aplikacja TODO
 
-### Szymon Kulinski 22698 195IC
- 
-# Lab10 
+Aplikacja zaimlentoana przy użyciu React + Django
 
 <br>
 
@@ -16,9 +14,6 @@ Po implementacji react:
 <br>
 
 ![image](https://user-images.githubusercontent.com/56955430/150428810-d172bc09-7cc1-4d34-b43f-985033e2b779.png)
-
-<br>
-Dodałem modyfikację, dzięki której wyświetla się również opis zadania oraz data stworzenia
 
 <br>
 Dodanie nowego elementu:
