@@ -1,7 +1,4 @@
-# lab5
-<br>
-Podgląd przykładów:
-<br>
+# Aplikacja służąca do fetchowania elementów ze stron internetowych
 
 ![image](https://user-images.githubusercontent.com/56955430/148652298-18578a0c-af26-4cbc-92ab-8cb87ec202cc.png)
 <br>
